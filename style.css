@@ -5,9 +5,20 @@ src: url("amazonemberdisplay_md-webfont.woff") format("woff");
 
 
 .hello {
-  color: #ec7211;
+  
+  margin-top:20%;
   
 
+
+}
+
+.hello2 {
+  color: #ec7211;
+}
+
+.hello3 {
+  
+  color: #FFFFFF;
 
 }
 
