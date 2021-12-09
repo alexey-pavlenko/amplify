@@ -1,7 +1,21 @@
+@font-face {
+font-family: "CustomFont";
+src: url("amazonemberdisplay_md-webfont.woff") format("woff");
+}
+
+
 .hello {
-background: yellow;
+  color: #ec7211;
+  
+
+
 }
 
 .background {
- background: green; 
+ background-color: #414750;
+ font-size: 30px;
+   font-family: 'CustomFont';
+ text-align: center;
+ font-weight: bolder;
+ 
 }
